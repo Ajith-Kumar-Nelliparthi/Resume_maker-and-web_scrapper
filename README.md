@@ -54,7 +54,7 @@ Resume_maker-and-web_scrapper/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Resume_maker-and-web_scrapper.git
+   [git clone https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git
 
 2. Navigate to the project directory:
     cd Resume_maker-and-web_scrapper
