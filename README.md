@@ -54,15 +54,17 @@ Resume_maker-and-web_scrapper/
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git
+   git clone https://github.com/Ajith-Kumar-Nelliparthi/Resume_maker-and-web_scrapper.git
 
 2. Navigate to the project directory:
-    cd Resume_maker-and-web_scrapper
+```
+    cd resume_maker
+```
 
-3. Install dependencies
+4. Install dependencies
     ```bash
     pip install -r requirements.txt
-4.  Set up [Grok API](https://x.ai/) key:\
+5.  Set up [Grok API](https://x.ai/) key:\
 Obtain an API key from Grok.\
 Store it in an environment variable or a .env file.
 
