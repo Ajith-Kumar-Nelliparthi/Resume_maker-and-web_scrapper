@@ -6,3 +6,6 @@ nltk
 pdfplumber
 skle
 sklearn
+python-docx 
+groq 
+python-dotenv 
