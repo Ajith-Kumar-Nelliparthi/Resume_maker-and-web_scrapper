@@ -1,5 +1,8 @@
-numpy
-json
+openai
 requests
-BeautifulSoup
+beautifulsoup4
 spacy
+nltk
+pdfplumber
+skle
+sklearn
