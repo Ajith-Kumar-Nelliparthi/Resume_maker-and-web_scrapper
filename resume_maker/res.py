@@ -192,10 +192,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-'''
-from groq import Groq
-
-client = Groq(api_key="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")
-
-models = client.models.list()
-print(models)'''
